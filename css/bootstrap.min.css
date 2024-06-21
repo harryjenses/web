@@ -227,7 +227,7 @@ button,
 html [type="button"],
 [type="reset"],
 [type="submit"] {
-  -webkit-appearance: button; }
+  -webkit-apearance: button; }
 
 button::-moz-focus-inner,
 [type="button"]::-moz-focus-inner,
@@ -246,7 +246,7 @@ input[type="date"],
 input[type="time"],
 input[type="datetime-local"],
 input[type="month"] {
-  -webkit-appearance: listbox; }
+  -webkit-apearance: listbox; }
 
 textarea {
   overflow: auto;
@@ -278,7 +278,7 @@ progress {
 
 [type="search"] {
   outline-offset: -2px;
-  -webkit-appearance: none; }
+  -webkit-apearance: none; }
 
 [type="search"]::-webkit-search-cancel-button,
 [type="search"]::-webkit-search-decoration {
@@ -2209,7 +2209,7 @@ fieldset:disabled a.btn {
     -webkit-box-shadow: 0 0 0 0.2rem rgba(127, 71, 130, 0.5);
     box-shadow: 0 0 0 0.2rem rgba(127, 71, 130, 0.5); }
   .btn-outline-primary.disabled, .btn-outline-primary:disabled {
-    color: #7d29109;
+    color: #d29109;
     background-color: transparent; }
   .btn-outline-primary:not(:disabled):not(.disabled):active, .btn-outline-primary:not(:disabled):not(.disabled).active,
   .show > .btn-outline-primary.dropdown-toggle {
@@ -3901,7 +3901,7 @@ input[type="button"].btn-block {
   border: 1px solid #dee2e6; }
   .page-link:hover {
     z-index: 2;
-    color: #d2910988;
+    color: #d29109;
     text-decoration: none;
     background-color: #e9ecef;
     border-color: #dee2e6; }
@@ -4391,7 +4391,7 @@ button.close {
   padding: 0;
   background-color: transparent;
   border: 0;
-  -webkit-appearance: none; }
+  -webkit-apearance: none; }
 
 .modal-open {
   overflow: hidden; }
